@@ -50,7 +50,6 @@ R2.grid(sticky="w", column=0, row=2)
 label = Label(root)
 label.grid(sticky="w", column=0, row=3)
 
-
 root.bind("<FocusIn>", on_focus_in)
 root.bind("<FocusOut>", on_focus_out)
 root.bind("<KeyPress>", on_key_press)
