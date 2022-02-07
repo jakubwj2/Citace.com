@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Users\Admin\PycharmProjects\Citace\runner.bat",0,True
